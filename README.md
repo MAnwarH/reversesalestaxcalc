@@ -8,8 +8,6 @@
 
 A professional, free web-based tool to calculate reverse sales tax and determine pre-tax prices instantly. Perfect for businesses, accountants, shoppers, and anyone who needs to separate sales tax from total prices.
 
-**🚀 [Try it now at reversesalestaxcalc.com](https://reversesalestaxcalc.com/)**
-
 ---
 
 ## ✨ Features
@@ -35,15 +33,13 @@ A reverse sales tax calculator helps you find the **original price before tax** 
 - Original price before tax: **$100.00**
 - Tax amount paid: **$7.25**
 
-**[Calculate your reverse sales tax now →](https://reversesalestaxcalc.com/)**
-
 ---
 
 ## 🚀 Quick Start
 
 ### Online Calculator (Recommended)
 
-Visit **[reversesalestaxcalc.com](https://reversesalestaxcalc.com/)** and:
+Visit the live calculator and start calculating immediately:
 
 1. Enter your **final price** (the total you paid including tax)
 2. Enter your **tax rate** percentage
@@ -86,8 +82,6 @@ No build process or dependencies required - it's pure HTML, CSS, and JavaScript!
 - **Receipt Verification** - Confirm retailers charged correct tax
 - **Shopping Comparison** - Find better deals by comparing pre-tax prices
 - **Tax Planning** - Track total sales tax paid annually
-
-**[Start calculating now →](https://reversesalestaxcalc.com/)**
 
 ---
 
@@ -136,8 +130,6 @@ The calculator includes comprehensive tax rate tables for:
 - New Hampshire
 - Oregon
 
-**[View complete tax rate tables →](https://reversesalestaxcalc.com/#tax-rates-heading)**
-
 ---
 
 ## 🛠️ Technology Stack
@@ -147,14 +139,13 @@ The calculator includes comprehensive tax rate tables for:
 - **Vanilla JavaScript** - No frameworks, pure JS for maximum performance
 - **SEO Optimized** - Rich snippets, Open Graph, Twitter Cards
 - **Accessibility** - WCAG compliant with ARIA labels
-- **Analytics** - Google Analytics integration
 - **Mobile First** - Responsive design for all screen sizes
 
 ---
 
 ## 📱 Screenshots
 
-Visit [reversesalestaxcalc.com](https://reversesalestaxcalc.com/) to see the calculator in action with:
+The calculator features:
 - Clean, modern interface
 - Instant calculation results
 - Detailed breakdown display
@@ -185,9 +176,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- **Website:** [reversesalestaxcalc.com](https://reversesalestaxcalc.com/)
-- **Issues:** [GitHub Issues](https://github.com/MAnwarH/reversesalestaxcalc/issues)
-- **Contact:** Use the [contact form](https://reversesalestaxcalc.com/contact.html)
+- **GitHub Issues:** [Report bugs or request features](https://github.com/MAnwarH/reversesalestaxcalc/issues)
+- **Documentation:** See [CHANGELOG.md](CHANGELOG.md) for version history
 
 ---
 
@@ -217,18 +207,7 @@ Absolutely. All calculations happen in your browser. Nothing is stored or sent t
 Yes! Fully responsive design works perfectly on all devices.
 
 ### What if I don't know my tax rate?
-Check your receipt or visit [reversesalestaxcalc.com](https://reversesalestaxcalc.com/) for comprehensive tax rate tables.
-
-**[More FAQs on the website →](https://reversesalestaxcalc.com/#faq-heading)**
-
----
-
-## 🔗 Related Resources
-
-- [Privacy Policy](https://reversesalestaxcalc.com/privacy.html)
-- [Terms of Service](https://reversesalestaxcalc.com/terms.html)
-- [About Us](https://reversesalestaxcalc.com/about.html)
-- [Contact](https://reversesalestaxcalc.com/contact.html)
+Check your receipt or refer to the comprehensive tax rate tables included in the calculator.
 
 ---
 
@@ -236,17 +215,18 @@ Check your receipt or visit [reversesalestaxcalc.com](https://reversesalestaxcal
 
 If you find this calculator useful, please:
 - ⭐ Star this repository
-- 🔗 Share [reversesalestaxcalc.com](https://reversesalestaxcalc.com/) with others
 - 🐛 Report issues to help improve the tool
 - 💬 Provide feedback
+- 📢 Share with others who might benefit
 
 ---
 
-**[🚀 Try the Reverse Sales Tax Calculator Now](https://reversesalestaxcalc.com/)**
+## 🔗 Live Demo
+
+**[→ Try the Reverse Sales Tax Calculator](https://reversesalestaxcalc.com/)**
 
 ---
 
 <p align="center">
-  Made with ❤️ for accurate tax calculations<br>
-  <a href="https://reversesalestaxcalc.com/">reversesalestaxcalc.com</a>
+  Made with ❤️ for accurate tax calculations
 </p>
