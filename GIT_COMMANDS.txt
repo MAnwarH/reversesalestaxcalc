@@ -1,0 +1,146 @@
+========================================
+QUICK GIT COMMANDS REFERENCE
+Reverse Sales Tax Calculator
+https://reversesalestaxcalc.com/
+========================================
+
+INITIAL SETUP (Run Once)
+========================================
+
+1. Open Command Prompt/Terminal
+   cd "d:\Reverse sales tax calculator"
+
+2. Configure Git (First time only)
+   git config --global user.name "Your Name"
+   git config --global user.email "your@email.com"
+
+3. Initialize Repository
+   git init
+
+4. Add All Files
+   git add .
+
+5. Create First Commit
+   git commit -m "Initial commit: Add reverse sales tax calculator"
+
+6. Connect to GitHub
+   git remote add origin https://github.com/MAnwarH/reversesalestaxcalc.git
+
+7. Rename Branch to Main
+   git branch -M main
+
+8. Push to GitHub
+   git push -u origin main
+
+
+FUTURE UPDATES (Use Anytime)
+========================================
+
+1. Check Status
+   git status
+
+2. Add Changed Files
+   git add .
+
+3. Commit Changes
+   git commit -m "Update: describe your changes here"
+
+4. Push to GitHub
+   git push
+
+
+USEFUL COMMANDS
+========================================
+
+View Commit History:
+   git log --oneline
+
+Check Remote URL:
+   git remote -v
+
+Undo Last Commit (keep changes):
+   git reset --soft HEAD~1
+
+Discard All Local Changes:
+   git reset --hard
+
+Pull Latest from GitHub:
+   git pull origin main
+
+
+TROUBLESHOOTING
+========================================
+
+If "remote origin already exists":
+   git remote remove origin
+   git remote add origin https://github.com/MAnwarH/reversesalestaxcalc.git
+
+If push rejected:
+   git pull origin main --rebase
+   git push origin main
+
+Check git version:
+   git --version
+
+
+GITHUB PERSONAL ACCESS TOKEN
+========================================
+
+Instead of password, use token:
+1. Go to: https://github.com/settings/tokens
+2. Generate new token (classic)
+3. Select scope: repo
+4. Copy token
+5. Use as password when pushing
+
+
+VERIFY SUCCESS
+========================================
+
+After pushing, visit:
+https://github.com/MAnwarH/reversesalestaxcalc
+
+You should see:
+✓ All files uploaded
+✓ README.md displayed
+✓ Website link in About section
+✓ Topics/tags visible
+
+
+REPOSITORY SETTINGS
+========================================
+
+After first push, configure:
+
+1. Add Website URL:
+   - Go to repo Settings
+   - About section → Edit
+   - Website: https://reversesalestaxcalc.com/
+   - Description: Free reverse sales tax calculator
+   - Topics: calculator, sales-tax, finance, javascript
+
+2. Enable GitHub Pages (optional):
+   - Settings → Pages
+   - Source: main branch
+   - Folder: / (root)
+   - Save
+
+
+IMPORTANT NOTES
+========================================
+
+✓ Repository MUST be PUBLIC for SEO backlinks
+✓ README.md has 10+ links to reversesalestaxcalc.com
+✓ Use descriptive commit messages
+✓ Push regularly to show active maintenance
+✓ Respond to issues/stars for engagement
+
+
+CONTACT
+========================================
+
+Website: https://reversesalestaxcalc.com/
+Contact: https://reversesalestaxcalc.com/contact.html
+GitHub: https://github.com/MAnwarH/reversesalestaxcalc
+
+========================================

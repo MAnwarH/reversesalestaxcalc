@@ -1,0 +1,11 @@
+# Robots.txt for Reverse Sales Tax Calculator
+# https://reversesalestaxcalc.com/
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://reversesalestaxcalc.com/sitemap.xml
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
