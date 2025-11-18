@@ -2,8 +2,6 @@
 
 All notable changes to the Reverse Sales Tax Calculator will be documented in this file.
 
-Visit [reversesalestaxcalc.com](https://reversesalestaxcalc.com/) to use the latest version.
-
 ## [1.0.0] - 2025-11-14
 
 ### 🎉 Initial Release
@@ -112,5 +110,3 @@ All tax rates verified as of November 2025:
 ---
 
 **Note**: Tax rates are updated regularly. Always verify rates with official sources for critical financial decisions.
-
-Visit [reversesalestaxcalc.com](https://reversesalestaxcalc.com/) for the latest version!

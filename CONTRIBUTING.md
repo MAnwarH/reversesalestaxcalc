@@ -2,8 +2,6 @@
 
 First off, thank you for considering contributing to the Reverse Sales Tax Calculator! 🎉
 
-Visit [reversesalestaxcalc.com](https://reversesalestaxcalc.com/) to see the live calculator in action.
-
 ## How Can I Contribute?
 
 ### 🐛 Reporting Bugs
@@ -21,7 +19,7 @@ Before creating bug reports, please check existing issues. When creating a bug r
 
 Feature suggestions are welcome! Please:
 
-- Check if the feature already exists on [reversesalestaxcalc.com](https://reversesalestaxcalc.com/)
+- Check if the feature already exists
 - Describe the feature clearly
 - Explain why it would be useful
 - Provide examples of how it would work
@@ -83,7 +81,7 @@ Help improve our documentation:
 ### 💬 Community Support
 
 - Answer questions in issues
-- Help other users on the [contact form](https://reversesalestaxcalc.com/contact.html)
+- Help other users
 - Share the calculator with others who might find it useful
 
 ## Development Guidelines
@@ -116,7 +114,7 @@ Before submitting a PR, ensure:
 - [ ] No console errors
 - [ ] Accessibility checked (keyboard navigation, screen readers)
 - [ ] SEO meta tags intact
-- [ ] Links to [reversesalestaxcalc.com](https://reversesalestaxcalc.com/) work correctly
+- [ ] All links work correctly
 
 ### Tax Rate Updates
 
@@ -146,8 +144,7 @@ If updating tax rates:
 
 ## Questions?
 
-- Check the [FAQ](https://reversesalestaxcalc.com/#faq-heading)
-- Use the [contact form](https://reversesalestaxcalc.com/contact.html)
+- Check the FAQ section
 - Open a GitHub issue for technical questions
 
 ## License
@@ -156,4 +153,6 @@ By contributing, you agree that your contributions will be licensed under the MI
 
 ---
 
-Thank you for contributing to make [reversesalestaxcalc.com](https://reversesalestaxcalc.com/) better! 🚀
+**[→ View the live calculator](https://reversesalestaxcalc.com/)**
+
+Thank you for contributing! 🚀
